@@ -3,7 +3,7 @@
 #plak hier de haiku functions onder elkaar
 def Haiku1():
 print("Deze haiku is van Awes")
-
+print("Deze haiku is van Sam")
 
 
 #laat de code hieronder met rust
