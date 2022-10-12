@@ -1,7 +1,8 @@
 
 
 #plak hier de haiku functions onder elkaar
-
+def Haiku1():
+print("Deze haiku is van Awes")
 
 
 
